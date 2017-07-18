@@ -1,0 +1,29 @@
+.operations {
+  display: flex;
+  margin: 2em;
+}
+
+button {
+  text-align: center;
+  margin: 0 1em;
+  background: rgb(231, 184, 255);
+  border-radius: 5px;
+
+}
+
+body {
+  width: 100%;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgb(174, 249, 245);
+}
+
+input {
+  width: 10%;
+  border-radius: 5px;
+  background: rgb(255, 211, 166);
+  text-align: center;
+}
